@@ -1,5 +1,5 @@
 # uOttawa Computer Chess Hackathon 2025 – Team PS
-
+ 
 ## Achievements
 - First place overall  
 - Fastest Checkmate award  
